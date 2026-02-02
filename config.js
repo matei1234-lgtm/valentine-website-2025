@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Vrei sa fii valentinul meu?🤗💕💕💕💕​",
+    pageTitle: "Vrei sa fii valentinul meu?🤗💕​",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,35 +22,35 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "Mă placi?",                                    // First interaction
+            yesBtn: "Da",                                             // Text for "Yes" button
+            noBtn: "Nu",                                               // Text for "No" button
+            secretAnswer: "Nu te plac, te iubessccc! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            text: "Cât de mult mă iubești?🤔​",                          // For the love meter
+            startText: "Atât de mult!",                                   // Text before the percentage
+            nextBtn: "Mai departe ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "Vrei să fii valentinul meu?🌹🌹🌹🤗​💕​💕​💕​💕​", // The big question!
+            yesBtn: "Da!",                                             // Text for "Yes" button
+            noBtn: "Nu"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW Mă iubești atât de multtt?? 🥰🚀💝",  // Shows when they go past 5000%
+        high: "Câți km are passatu lui Schiop și înapoi! 🚀💕​💕​💕​❤️‍🔥​❤️‍🔥​❤️‍🔥​❤️​❤️​❤️​💝",              // Shows when they go past 1000%
+        normal: "Și înapoi! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Yaaayyy! Îs cel mai norocos băiat din lumeee! 🎉💝💖💕​💕​​❤️‍🔥​​❤️‍🔥​❤️​❤️​💝💓",
+        message: "Acuma poți să îți iei cadoul, mulți pupici și îmbrățișări!🤗​💕​💕​❤️​❤️​🥰​🥰​",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
