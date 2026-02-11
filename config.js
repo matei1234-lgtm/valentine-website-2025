@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Vrei sa fii valentinul meu?🤗💕​",
+    pageTitle: "Vrei sa fii valentina mea?🤗💕​",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Mai departe ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Vrei să fii valentinul meu?🌹🌹🌹🤗​💕​💕​💕​💕​", // The big question!
+            text: "Vrei să fii valentina mea pe 15?🌹🌹🌹🤗​💕​💕​💕​💕​", // The big question!
             yesBtn: "Da!",                                             // Text for "Yes" button
             noBtn: "Nu"                                                 // Text for "No" button
         }
