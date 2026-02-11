@@ -81,7 +81,7 @@ window.addEventListener('DOMContentLoaded', () => {
     createFloatingElements();
 
     // Setup music player
-    setupMusicPlayer();
+    
 });
 
 // Create floating hearts and bears
